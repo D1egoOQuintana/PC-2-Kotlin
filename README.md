@@ -21,18 +21,7 @@ npm install
 npm start
 ```
 
-## Características principales
-- Característica 1
-- Característica 2
-- Característica 3
 
-## Estructura del proyecto
-```
-├── src/            # Código fuente
-├── tests/          # Pruebas unitarias
-├── docs/           # Documentación
-└── README.md       # Este archivo
-```
 
 ## Tecnologías utilizadas
 - JavaScript/TypeScript
