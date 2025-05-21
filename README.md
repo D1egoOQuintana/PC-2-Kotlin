@@ -30,7 +30,6 @@ npm start
 - MongoDB
 
 ## Autor
-[Tu Nombre]
-
+Quintana Luis Diego
 ## Licencia
 MIT
